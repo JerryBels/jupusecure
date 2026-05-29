@@ -1,0 +1,6 @@
+# Pinned per docs/plans/2026-05-21-001-feat-secure-code-execution-layer-plan.md
+docker==7.1.0
+google-genai>=0.7,<2
+streamlit==1.57.0
+python-dotenv>=1.0,<2
+pytest>=8.0,<9
